@@ -26,6 +26,8 @@ To target the different user profiles, 3 different presets have been created:
 
 ## Instructions
 
+**Important: your browser needs to be closed while installing this improvement patch**.
+
 First, select whichever preset fits you and your needs the most and download/open its folder. Inside of it is everything one needs to install/apply said preset and, in fact, there are two ways to do so:
 * Run **_setup.cmd_** (from the setup folder) as administrator.
 * Copy (and replace) the **_extensions_** folder and the **_prefs.js_** file to the following location:
