@@ -48,6 +48,39 @@ In order to use a given preset with an untested Gecko/Goanna browser, copy (and 
 
 <br>
 
+## Extensions
+
+Here's a list of the extensions used in the different presets:
+
+* [CanvasBlocker](https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/): Protects against canvas fingerprinting.
+* [HTTPS Everywhere](https://www.eff.org/https-everywhere): Encrypts your communications with many major websites, making your browsing more secure.
+* [Privacy Badger](https://www.eff.org/privacybadger): Blocks spying ads and invisible trackers.
+* [uBlock Origin](https://github.com/gorhill/uBlock): An efficient blocker: easy on memory and CPU footprint.
+* [Cookie Autodelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete): Automatically deletes cookies when they are no longer used by open browser tabs.
+* [uMatrix](https://github.com/gorhill/uMatrix): Point-and-click matrix to filter net requests according to source, destination and type.
+* [Decentraleyes](https://decentraleyes.org/): Protects you against tracking through "free", centralized, content delivery.
+* [Clear URLs](https://addons.mozilla.org/en-US/firefox/addon/clearurls/): Removes tracking elements from URLs.
+* [Temporary Containers](https://addons.mozilla.org/en-US/firefox/addon/temporary-containers/): Open tabs, websites, and links in automatically managed disposable containers.
+* [Firefox Multi-Account Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/): Lets you keep parts of your online life separated into color-coded tabs that preserve your privacy.
+
+<br>
+
+| Extension | Standard | Advanced | Hardcore |
+| --- | --- | --- | --- |
+| CanvasBlocker | ✓ | ✓ | ✓ |
+| HTTPS Everywhere | ✓ | ✓ | ✓ |
+| Privacy Badger | ✓ | ✓ | ✓ |
+| uBlock Origin | ✓ | ✓ | ✓ |
+| Cookie Autodelete | X | X | X |
+| uMatrix | X | X | ✓ |
+| Decentraleyes | ✓ | ✓ | ✓ |
+| Clear URLs | ✓ | ✓ | ✓ |
+| Temporary Containers | ✓ | ✓ | ✓ |
+| Firefox Multi-Account Containers | X | X | ✓ |
+
+
+<br>
+
 ## Standard Preset Details
 
 ![Details](Standard/Details.png)
