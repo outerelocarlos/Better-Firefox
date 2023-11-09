@@ -3,6 +3,7 @@
 ## Contents
  - [Description](#description)
  - [Instructions](#instructions)
+ - [Extensions](#Extensions)
  - [Standard Preset Details](#standard-preset-details)
  - [Advanced Preset Details](#advanced-preset-details)
  - [Hardcore Preset Details](#hardcore-preset-details)
