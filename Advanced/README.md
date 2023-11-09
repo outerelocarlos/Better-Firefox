@@ -30,4 +30,4 @@ In order to use this preset with an untested Gecko/Goanna browser, copy (and rep
 
 ## Details
 
-![Details](Details.png)
+![Details](Details.jpg)

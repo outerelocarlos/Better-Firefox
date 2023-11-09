@@ -71,28 +71,28 @@ Here's a list of the extensions used in the different presets:
 | HTTPS Everywhere | ✓ | ✓ | ✓ |
 | Privacy Badger | ✓ | ✓ | ✓ |
 | uBlock Origin | ✓ | ✓ | ✓ |
-| Cookie Autodelete | X | X | X |
+| Cookie Autodelete | X | X | ✓ |
 | uMatrix | X | X | ✓ |
 | Decentraleyes | ✓ | ✓ | ✓ |
 | Clear URLs | ✓ | ✓ | ✓ |
 | Temporary Containers | ✓ | ✓ | ✓ |
-| Firefox Multi-Account Containers | X | X | ✓ |
+| Firefox Multi-Account Containers | X | ✓ | ✓ |
 
 
 <br>
 
 ## Standard Preset Details
 
-![Details](Standard/Details.png)
+![Details](Standard/Details.jpg)
 
 <br>
 
 ## Advanced Preset Details
 
-![Details](Advanced/Details.png)
+![Details](Advanced/Details.jpg)
 
 <br>
 
 ## Hardcore Preset Details
 
-![Details](Hardcore/Details.png)
+![Details](Hardcore/Details.jpg)
